@@ -1,7 +1,7 @@
-ls -l
+# learn shell
 
-ls -l /tmp
+### we will learn shell scripting topics
 
-uname -a
+### list of shell topics
 
-yum list installed
+1. How to write shell script file
